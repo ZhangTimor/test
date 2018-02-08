@@ -10,4 +10,8 @@ Creating a new branch is quick AND simple.
 中文测试
 测试bug分支
 add /usr/bin/env/user/git
-test dev branch conflict
+<<<<<<< HEAD
+test  branch conflict
+=======
+test  branch conflict
+>>>>>>> 4b26fe5799e028b2149b0dfeff75276441451f9f
