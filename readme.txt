@@ -9,4 +9,4 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 中文测试
 测试bug分支
-add /usr/bin/env
+add /usr/bin/env/git
